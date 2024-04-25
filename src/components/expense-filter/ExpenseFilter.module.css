@@ -1,0 +1,49 @@
+.conteiner {
+  color: white;
+  padding: 0 1rem;
+}
+.myDiv {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.expenseFilterControl label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.expenseFilterControl select {
+  font: inherit;
+  font-weight: bold;
+  border-radius: 6px;
+}
+.filter_date {
+  padding: 0.5rem 3rem;
+  background-color: rgb(105, 59, 149);
+  border: none;
+  cursor: pointer;
+border-radius: 5px;
+color: white;}
+
+.mySelekt {
+  width: 200px;
+  padding: 5px;
+  background-color: rgb(105, 59, 149);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button {
+  background-color: rgb(105, 59, 149);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 5px;
+  width: 130px;
+  padding: 7px;
+  color:white;
+}

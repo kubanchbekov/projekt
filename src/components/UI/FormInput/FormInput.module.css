@@ -1,0 +1,17 @@
+.formLabel {
+  color: #000000;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 600;
+}
+.formInput {
+  width: 100%;
+  border: none;
+  padding: 10px 18px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  outline: none;
+}

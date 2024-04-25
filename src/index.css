@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.wrapper {
+  background-color: #3f3f3f;
+  min-height: 100vh;
+  color: white;
+}
+.container {
+  max-width: 100%;
+  width: 780px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
